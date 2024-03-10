@@ -1,0 +1,20 @@
+.aboutPage {
+  text-align: center;
+}
+
+.aboutPage h2 {
+  text-align: right;
+  margin-top: 40px;
+}
+.aboutPage p {
+  text-align: right;
+  color: black;
+  margin-top: 40px;
+}
+.aboutPage img {
+  margin-top: 40px;
+}
+.title {
+  color: blue;
+  margin-top: 40px;
+}

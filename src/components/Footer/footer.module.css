@@ -1,0 +1,23 @@
+.footerWrapper {
+  background-color: #090979;
+  height: 240px;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+.footer ul {
+  display: flex;
+  position: relative;
+  bottom: 32px;
+}
+.footer li {
+  padding: 24px;
+  margin-top: 50px;
+  font-size: 24px;
+  color: aliceblue;
+}
+.footerWrapper span {
+  display: flex;
+  justify-content: center;
+  color: aliceblue;
+}

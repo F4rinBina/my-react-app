@@ -1,0 +1,14 @@
+.textarea label{
+display: block;
+margin:5px;
+text-align: right;
+
+}
+
+.textarea textarea{
+width: 100%;
+min-height: 200px;
+border: 1px solid #ccc;
+text-align: right;
+max-width: 100%;
+}

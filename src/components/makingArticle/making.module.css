@@ -1,0 +1,22 @@
+.making h3 {
+  text-align: right;
+  margin-top: 30px;
+}
+.buttonWrapper{
+  text-align: right;
+  
+}
+.buttonWrapper button{
+  background-color: #40A2E3;
+  border-radius: 5px;
+  border: none;
+  padding: 6px;
+  margin-top: 10px;
+  font-size: medium;
+  cursor: pointer;
+}
+.buttonWrapper button:active{
+  opacity: .8;
+}
+
+

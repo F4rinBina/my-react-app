@@ -1,0 +1,20 @@
+.articlePage h4{
+    text-align: right;
+   margin-top: 40px;
+
+}
+.articlePage img{
+    width: 60%;
+    margin-top: 10px;
+    
+
+}
+.articlePage p{
+    text-align: right;
+    margin: 20px 0px;
+    
+   
+}
+.articlePage{
+    text-align: center;
+}
